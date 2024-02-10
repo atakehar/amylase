@@ -1,0 +1,18 @@
+[project]
+name = "amylase"
+verion = "0.0.1"
+authors = {
+  { name="Atlas Takehar", email="78812172+atakehar@users.noreply.github.com "}
+}
+description = "A MVVM framework for Python inspired by .NET"
+readme = "README.md"
+requires-python=">=3.0"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/atakehar/amylase"
+Issues = "https://github.com/atakehar/amylase/issues"
